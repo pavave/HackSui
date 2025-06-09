@@ -43,7 +43,7 @@ We are requesting **$5,000** in support for:
 - Security review of contracts
 
 ## 👥 Team
-- Telegram: @td_at (my)  
+- Telegram: @td_at 
 - GitHub: https://github.com/pavave/HackSui 
 - Location: Remote  
 - Role: Founder, Solidity/Move enthusiast, CTF learner
