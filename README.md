@@ -26,5 +26,67 @@ Users interact with vulnerable Move contracts, complete security challenges, and
 ---
 
 ## 🚀 Project Structure
+HackSui/
+│
+├── contracts/ # All CTF challenges as Move packages
+│ └── hellomove/ # First simple challenge
+│
+├── frontend/ (planned) # Web interface (MVP in development)
+│
+└── README.md # You're here
 
+---
+
+---
+
+## ⚙️ Local Setup (Sui CLI Required)
+
+1. **Install Sui CLI**:  
+   Follow [https://docs.sui.io](https://docs.sui.io) to install Sui on your system.
+
+2. **Build Contracts**
+
+cd contracts/hellomove
+sui move build
+
+3. Publish to Devnet
+
+sui client publish --gas-budget 100000000
+
+4. Call a Function
+
+sui client call \
+  --package <package_id> \
+  --module HelloMove \
+  --function hello \
+  --args
+
+  
+🧪 Current Status
+✅ First challenge live (HelloMove)
+
+🛠️ 3+ new challenges in progress
+
+🧠 Frontend MVP in development
+
+📘 Grant application prepared
+
+🧪 Testnet launch soon
+
+🛣️ Roadmap
+Phase	Milestone	Status
+🔹 1	Create 3–5 beginner Move challenges	✅ Done
+🔹 2	Frontend MVP with wallet + validation	🛠️ In Dev
+🔹 3	Deploy to Sui testnet with reward token	🔜 Planned
+🔹 4	Launch certification and leaderboard system	🔜 Planned
+🔹 5	Apply for Sui grant and scale to mainnet	🟡 Ongoing
+
+📎 Links
+GitHub: https://github.com/pavave/HackSui
+Grant Proposal: GRANT.md
+
+👤 Author
+GitHub: @pavave
+
+Telegram: @td_at
 
