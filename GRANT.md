@@ -100,13 +100,12 @@ Total - $5,000
 
 ## 📅 Milestones & Timeline
 
-Milestone                             Duration        Deliverables
+| Milestone            | Duration   | Deliverables                                                 |
+|----------------------|------------|---------------------------------------------------------------|
+| MVP Testnet Launch   | 4 weeks    | 10–15 challenges, wallet connection, badge minting            |
+| Feedback Iteration   | 2 weeks    | UX improvements, task rating, basic leaderboard               |
+| Certification System | 2 weeks    | On-chain certs, GitHub/Sui linking, profiles                  |
 
-MVP Testnet Launch                    4 weeks         10–15 challenges, wallet connection, badge minting
-
-Feedback Iteration                    2 weeks         UX improvements, task rating, basic leaderboard
-
-Certification System                  2 weeks         On-chain certs, GitHub/Sui linking, profiles
 
 ## 📊 KPIs
 
