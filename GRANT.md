@@ -85,20 +85,18 @@ Security review of challenges
 NFT design and reward system
 
 ## 💸 Budget Breakdown
-____________________________________________________________________
-Item                                                       | Cost
-____________________________________________________________________
-Developer salaries (frontend/backend)                      | $2,500
 
-Infrastructure (hosting, APIs, testnet tools)              | $1,000
+Developer salaries (frontend/backend) - $2,500
 
-Bug bounty and security audit                              | $800
+Infrastructure (hosting, APIs, testnet tools) - $1,000
 
-NFT design and UX                                          | $400
+Bug bounty and security audit - $800
 
-Misc (domain, tokens, marketing)                           | $300
-___________________________________________________________________
-Total                                                      | $5,000
+NFT design and UX - $400
+
+Misc (domain, tokens, marketing) -$300
+
+Total - $5,000
 
 ## 📅 Milestones & Timeline
 
