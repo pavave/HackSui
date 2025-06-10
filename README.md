@@ -53,21 +53,24 @@ HackSui/
 
 ## ⚙️ Local Setup (Sui CLI Required)
 
-1. **Install Sui CLI**  
+1. **Install Sui CLI**
+   
    Follow the official guide: https://docs.sui.io
 
 2. **Build Contracts**
 
-   '''bash
+   bash
    cd contracts/hellomove
    sui move build
 
 3. **Publish to Devnet**
-   '''bash
+   
+   bash
    sui client publish --gas-budget 100000000
 
 4. **Call a Function**
-   '''bash
+   
+   bash
    sui client call \
   --package <package_id> \
   --module HelloMove \
@@ -75,6 +78,7 @@ HackSui/
   --args
 
 🧠 Current Status
+
 ✅ First challenge live (hellomove)
 🛠️ 3+ new challenges in development
 🧪 Frontend MVP under construction
@@ -91,6 +95,7 @@ HackSui/
 | 🔹 5  | Apply for Sui grant and expand to mainnet | 🟡 Ongoing |
 
 🛠️ Tech Stack
+
 Language: Move (Sui Blockchain)
 
 Smart Contracts: Move Packages
@@ -114,6 +119,7 @@ Vladislava Pava — UI/UX Designer, NFT Artist
 Coming Soon — Community Manager / SMM
 
 📎 Links
+
 🔗 GitHub: https://github.com/pavave/HackSui
 
 📄 Grant Proposal: GRANT.md
@@ -123,5 +129,6 @@ Want to contribute, sponsor, or collaborate?
 Reach out via Telegram: @td_at
 
 🧪 Let’s Hack Sui Securely
+
 Train. Exploit. Learn. Get Certified.
    
