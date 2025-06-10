@@ -85,60 +85,30 @@ Security review of challenges
 NFT design and reward system
 
 ## 💸 Budget Breakdown
+____________________________________________________________________
+Item                                                       | Cost
+____________________________________________________________________
+Developer salaries (frontend/backend)                      | $2,500
 
-Item
+Infrastructure (hosting, APIs, testnet tools)              | $1,000
 
-Cost
+Bug bounty and security audit                              | $800
 
-Developer salaries (frontend/backend)
+NFT design and UX                                          | $400
 
-$2,500
-
-Infrastructure (hosting, APIs, testnet tools)
-
-$1,000
-
-Bug bounty and security audit
-
-$800
-
-NFT design and UX
-
-$400
-
-Misc (domain, tokens, marketing)
-
-$300
-
-Total
-
-$5,000
+Misc (domain, tokens, marketing)                           | $300
+___________________________________________________________________
+Total                                                      | $5,000
 
 ## 📅 Milestones & Timeline
 
-Milestone
+Milestone                             Duration        Deliverables
 
-Duration
+MVP Testnet Launch                    4 weeks         10–15 challenges, wallet connection, badge minting
 
-Deliverables
+Feedback Iteration                    2 weeks         UX improvements, task rating, basic leaderboard
 
-MVP Testnet Launch
-
-4 weeks
-
-10–15 challenges, wallet connection, badge minting
-
-Feedback Iteration
-
-2 weeks
-
-UX improvements, task rating, basic leaderboard
-
-Certification System
-
-2 weeks
-
-On-chain certs, GitHub/Sui linking, profiles
+Certification System                  2 weeks         On-chain certs, GitHub/Sui linking, profiles
 
 ## 📊 KPIs
 
