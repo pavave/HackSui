@@ -1,92 +1,59 @@
 # 🛡️ HackSui — Gamified Security Playground for Sui
 
-**HackSui** is a gamified Capture-the-Flag (CTF) platform for learning and practicing smart contract security in the Sui blockchain ecosystem.
+**HackSui** is a security-focused, gamified Capture-the-Flag (CTF) platform for learning and practicing smart contract security in the **Sui blockchain ecosystem**.
 
-Users interact with vulnerable Move contracts, complete security challenges, and earn test tokens as rewards — all while mastering the fundamentals of Move and smart contract safety.
+Developers interact with intentionally vulnerable Move contracts, solve real-world challenges, and earn rewards — all while mastering Move fundamentals and secure development practices.
 
 ---
 
 ## 🎯 Goals
 
-- Educate developers through real-world Move security challenges.
-- Simulate a hacker-style environment to test knowledge and skills.
-- Issue test tokens (or NFTs in the future) as proof of completion.
-- Optionally introduce developer certification based on progression.
+- Educate developers through real Move-based vulnerability challenges.
+- Simulate a hacker-style environment to test and sharpen skills.
+- Provide testnet rewards (test tokens, NFTs) for solved tasks.
+- Optionally introduce a certification system for developers.
 
 ---
 
 ## 🧩 How It Works
 
-- Every challenge is a Move contract with an intentional vulnerability.
-- Players connect their wallet (Sui CLI / frontend in progress).
-- They solve the task by interacting with the contract and submitting a fix or exploit.
-- On success, they receive a test token or confirmation.
-- Challenges are categorized by difficulty: beginner / intermediate / advanced.
+- Each challenge is a Move smart contract with an intentional vulnerability.
+- Users connect their wallet (Sui CLI or upcoming web frontend).
+- They exploit or patch the contract to solve the task.
+- Successful submissions trigger reward mechanisms (token or badge).
+- Challenges are categorized by **difficulty**: Beginner → Intermediate → Advanced.
 
 ---
 
-## 🚀 Project Structure
+## 🏗️ Project Structure
+
 HackSui/
+├── contracts/                  # Move challenge contracts
+│   ├── example_move_contract.move
+│   └── read_resource.move
 │
-├── contracts/ # All CTF challenges as Move packages
-│ └── hellomove/ # First simple challenge
+├── docs/                      # Docs about tasks and challenge design
+│   ├── challenges.md
+│   └── tasks.md
 │
-├── frontend/ (planned) # Web interface (MVP in development)
+├── frontend/                  # Web frontend (index.html, logo, etc.)
+│   ├── index.html
+│   └── logo.png
 │
-└── README.md # You're here
-
----
+├── .gitignore
+├── GRANT.md                   # Grant proposal to Sui Foundation
+├── LICENSE
+├── README.md                  # Main project description
+└── TASKS.md                   # Tasks plan and tracking
 
 ---
 
 ## ⚙️ Local Setup (Sui CLI Required)
 
-1. **Install Sui CLI**:  
-   Follow [https://docs.sui.io](https://docs.sui.io) to install Sui on your system.
+1. **Install Sui CLI**
+   Follow the official guide: https://docs.sui.io
+2. Build Contracts
+**   **cd contracts/hellomove
+   sui move build****
 
-2. **Build Contracts**
-
-cd contracts/hellomove
-sui move build
-
-3. Publish to Devnet
-
-sui client publish --gas-budget 100000000
-
-4. Call a Function
-
-sui client call \
-  --package <package_id> \
-  --module HelloMove \
-  --function hello \
-  --args
-
-  
-🧪 Current Status
-✅ First challenge live (HelloMove)
-
-🛠️ 3+ new challenges in progress
-
-🧠 Frontend MVP in development
-
-📘 Grant application prepared
-
-🧪 Testnet launch soon
-
-🛣️ Roadmap
-Phase	Milestone	Status
-🔹 1	Create 3–5 beginner Move challenges	✅ Done
-🔹 2	Frontend MVP with wallet + validation	🛠️ In Dev
-🔹 3	Deploy to Sui testnet with reward token	🔜 Planned
-🔹 4	Launch certification and leaderboard system	🔜 Planned
-🔹 5	Apply for Sui grant and scale to mainnet	🟡 Ongoing
-
-📎 Links
-GitHub: https://github.com/pavave/HackSui
-Grant Proposal: GRANT.md
-
-👤 Author
-GitHub: @pavave
-
-Telegram: @td_at
 
