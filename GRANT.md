@@ -182,7 +182,7 @@ Serves as an open source platform for educational growth
 - Location: Ukraine  
 - Role: UI/UX Designer, NFT Artist 
 
-  Soon
+  Coming soon
 - Community Manager / SMM
 
 📋 Links
