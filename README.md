@@ -79,7 +79,7 @@ HackSui/
 
 ---
 
-##🧠 Current Status
+## 🧠 Current Status
 
 ✅ First challenge live (hellomove)
 🛠️ 3+ new challenges in development
@@ -89,7 +89,7 @@ HackSui/
 
 ---
 
-##🚀 Roadmap
+## 🚀 Roadmap
 | Phase | Milestone                                 | Status      |
 | ----- | ----------------------------------------- | ---------   |
 | 🔹 1  | Create 3–5 beginner Move challenges       | ✅ Done    |
@@ -100,7 +100,7 @@ HackSui/
 
 ---
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Language: Move (Sui Blockchain)
 
@@ -114,7 +114,7 @@ Tools: Sui CLI, GitHub Actions (planned)
 
 ---
 
-##👥 Team
+## 👥 Team
 
 Valera Pava — Founder, Move/CTF Developer (Telegram / GitHub)
 
@@ -128,7 +128,7 @@ Coming Soon — Community Manager / SMM
 
 ---
 
-##📎 Links
+## 📎 Links
 
 🔗 GitHub: https://github.com/pavave/HackSui
 
@@ -140,7 +140,7 @@ Reach out via Telegram: @td_at
 
 ---
 
-##🧪 Let’s Hack Sui Securely
+## 🧪 Let’s Hack Sui Securely
 
 Train. Exploit. Learn. Get Certified.
    
