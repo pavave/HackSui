@@ -164,15 +164,15 @@ Serves as an open source platform for educational growth
 
 👥 Team
 
-Valera PavaFounder, Solidity/Move enthusiast, CTF learnerUkraineTelegram: @td_atGitHub: https://github.com/pavave
+Valera Pava: Founder, Solidity/Move enthusiast, CTF learnerUkraineTelegram: @td_atGitHub: https://github.com/pavave
 
-Mikhail VorobyovCTF Creator / Security Researcher, Content ManagerUkraine
+Mikhail Vorobyov: CTF Creator / Security Researcher, Content ManagerUkraine
 
-Maxim TurchakFull-Stack Web3 DeveloperUkraine
+Maxim Turchak: Full-Stack Web3 DeveloperUkraine
 
-Vladislava PavaUI/UX Designer, NFT ArtistUkraine
+Vladislava Pava: UI/UX Designer, NFT ArtistUkraine
 
-Coming SoonCommunity Manager / SMM
+Coming Soon: Community Manager / SMM
 
 📋 Links
 
