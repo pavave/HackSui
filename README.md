@@ -102,6 +102,7 @@ Infrastructure: Devnet / Testnet deployment
 Tools: Sui CLI, GitHub Actions (planned)
 
 👥 Team
+
 Valera Pava — Founder, Move/CTF Developer (Telegram / GitHub)
 
 Mikhail Vorobyov — Security Researcher / Technical Writer
