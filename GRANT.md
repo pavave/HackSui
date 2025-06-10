@@ -163,16 +163,27 @@ Encourages best practices in Sui smart contract development
 Serves as an open source platform for educational growth
 
 👥 Team
+  Valera Pava
+- Telegram: @td_at
+- X: @pavavalera
+- GitHub: https://github.com/pavave/HackSui 
+- Location: Ukraine  
+- Role: Founder, Solidity/Move enthusiast, CTF learner
 
-Valera Pava: Founder, Solidity/Move enthusiast, CTF learnerUkraineTelegram: @td_atGitHub: https://github.com/pavave
+  Mikhail Vorobyov
+- Location: Ukraine  
+- Role: CTF Creator / Security Researcher, Technical Writer / Content Manager
 
-Mikhail Vorobyov: CTF Creator / Security Researcher, Content ManagerUkraine
+  Maxim Turchak
+- Location: Ukraine  
+- Role: Full-Stack Web3 Developer 
 
-Maxim Turchak: Full-Stack Web3 DeveloperUkraine
+  Vladislava Pava
+- Location: Ukraine  
+- Role: UI/UX Designer, NFT Artist 
 
-Vladislava Pava: UI/UX Designer, NFT ArtistUkraine
-
-Coming Soon: Community Manager / SMM
+  Soon
+- Community Manager / SMM
 
 📋 Links
 
