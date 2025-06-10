@@ -77,7 +77,9 @@ HackSui/
   --function hello \
   --args
 
-🧠 Current Status
+---
+
+##🧠 Current Status
 
 ✅ First challenge live (hellomove)
 🛠️ 3+ new challenges in development
@@ -85,7 +87,9 @@ HackSui/
 📘 Grant proposal submitted
 🔜 Testnet deployment coming soon
 
-🚀 Roadmap
+---
+
+##🚀 Roadmap
 | Phase | Milestone                                 | Status      |
 | ----- | ----------------------------------------- | ---------   |
 | 🔹 1  | Create 3–5 beginner Move challenges       | ✅ Done    |
@@ -94,7 +98,9 @@ HackSui/
 | 🔹 4  | Launch leaderboard & certification system | 🔜 Planned |
 | 🔹 5  | Apply for Sui grant and expand to mainnet | 🟡 Ongoing |
 
-🛠️ Tech Stack
+---
+
+##🛠️ Tech Stack
 
 Language: Move (Sui Blockchain)
 
@@ -106,7 +112,9 @@ Infrastructure: Devnet / Testnet deployment
 
 Tools: Sui CLI, GitHub Actions (planned)
 
-👥 Team
+---
+
+##👥 Team
 
 Valera Pava — Founder, Move/CTF Developer (Telegram / GitHub)
 
@@ -118,7 +126,9 @@ Vladislava Pava — UI/UX Designer, NFT Artist
 
 Coming Soon — Community Manager / SMM
 
-📎 Links
+---
+
+##📎 Links
 
 🔗 GitHub: https://github.com/pavave/HackSui
 
@@ -128,7 +138,9 @@ Coming Soon — Community Manager / SMM
 Want to contribute, sponsor, or collaborate?
 Reach out via Telegram: @td_at
 
-🧪 Let’s Hack Sui Securely
+---
+
+##🧪 Let’s Hack Sui Securely
 
 Train. Exploit. Learn. Get Certified.
    
