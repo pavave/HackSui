@@ -116,7 +116,7 @@ Tools: Sui CLI, GitHub Actions (planned)
 
 ## 👥 Team
 
-Valera Pava — Founder, Move/CTF Developer (Telegram: @td_at / GitHub: https://github.com/pavave/HackSui/X: https://x.com/pavavalera)
+Valera Pava — Founder, Move/CTF Developer (Telegram: @td_at / GitHub: https://github.com/pavave/HackSui / X: https://x.com/pavavalera)
 
 Mikhail Vorobyov — Security Researcher / Technical Writer
 
