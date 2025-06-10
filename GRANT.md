@@ -1,12 +1,12 @@
-HackSui — Gamified Security Learning for Move Developers
+## HackSui — Gamified Security Learning for Move Developers
 
-🔍 Summary
+## 🔍 Summary
 
 HackSui is a gamified CTF-like platform for learning and practicing Move smart contract security on the Sui blockchain. Users solve real-world challenges, earn rewards, and level up their skills by working through curated vulnerability-based tasks.
 
 The project aims to improve developer education, raise security awareness, and make onboarding to the Sui ecosystem engaging, practical, and fun.
 
-🎯 Goals
+## 🎯 Goals
 
 Build an interactive security playground on Sui
 
@@ -16,7 +16,7 @@ Issue rewards (NFTs or test tokens) for successfully solving challenges
 
 Introduce optional developer certification for completing full challenge tracks
 
-🧩 How It Works
+## 🧩 How It Works
 
 Each challenge is a Move smart contract with an intentionally placed vulnerability
 
@@ -26,7 +26,7 @@ On success, users receive a confirmation, test token, or NFT badge
 
 Tasks are categorized by difficulty and security topic (e.g. ownership, resource leakage, reentrancy)
 
-🚧 Current Progress
+## 🚧 Current Progress
 
 ✅ Initial smart contracts for 3 beginner-level challenges
 
@@ -38,7 +38,7 @@ Tasks are categorized by difficulty and security topic (e.g. ownership, resource
 
 🔧 Testnet deployment planned
 
-🚀 Testnet Milestone
+## 🚀 Testnet Milestone
 
 Launch MVP with 10–15 challenges on devnet/testnet
 
@@ -46,7 +46,7 @@ Gather user feedback, iterate UX
 
 Track completions and reward with test tokens or badges
 
-🌐 Mainnet Plan
+## 🌐 Mainnet Plan
 
 Launch full-featured frontend with wallet integration
 
@@ -56,7 +56,7 @@ Leaderboard and public developer certificates
 
 Custom token (optional) for rewards and reputation
 
-✨ Developer Certification
+## ✨ Developer Certification
 
 HackSui will offer developer certification upon completion of a full challenge track (Beginner → Intermediate → Advanced). This certification will optionally be endorsed by the Sui ecosystem if approved.
 
@@ -70,7 +70,7 @@ Listing on the HackSui leaderboard
 
 Optional public profile with GitHub/Sui address link
 
-💰 Requested Grant
+## 💰 Requested Grant
 
 We are requesting $5,000 USD to support:
 
@@ -84,7 +84,7 @@ Security review of challenges
 
 NFT design and reward system
 
-💸 Budget Breakdown
+## 💸 Budget Breakdown
 
 Item
 
@@ -114,7 +114,7 @@ Total
 
 $5,000
 
-📅 Milestones & Timeline
+## 📅 Milestones & Timeline
 
 Milestone
 
@@ -140,7 +140,7 @@ Certification System
 
 On-chain certs, GitHub/Sui linking, profiles
 
-📊 KPIs
+## 📊 KPIs
 
 500+ unique wallets complete at least 1 challenge
 
@@ -152,7 +152,7 @@ On-chain certs, GitHub/Sui linking, profiles
 
 Community-created challenges integrated within 2 months
 
-🎓 Ecosystem Impact
+## 🎓 Ecosystem Impact
 
 Speeds up onboarding for new Move developers
 
@@ -162,7 +162,7 @@ Encourages best practices in Sui smart contract development
 
 Serves as an open source platform for educational growth
 
-👥 Team
+## 👥 Team
   Valera Pava
 - Telegram: @td_at
 - X: @pavavalera
@@ -185,13 +185,13 @@ Serves as an open source platform for educational growth
   Coming soon
 - Community Manager / SMM
 
-📋 Links
+## 📋 Links
 
 GitHub: https://github.com/pavave/HackSui
 
 Project Preview: coming soon
 
-💬 Why This Matters
+## 💬 Why This Matters
 
 Most developers are afraid of smart contract security. HackSui makes learning it engaging, hands-on, and fun. By using real Move examples on Sui, we help bootstrap a new generation of developers with stronger security skills and ecosystem fluency.
 
